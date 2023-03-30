@@ -1,3 +1,52 @@
 .cs {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+    margin: 10px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: white;
+}
+
+.fb-container {
+    width: 80%;
+    margin: auto;
+
+
+}
+
+.flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.magenta {
+    background-color: magenta;
+
+}
+
+.bg-darkgray {
+    background-color: rgb(51, 51, 51);
+}
